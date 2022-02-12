@@ -6,3 +6,20 @@
 
 * [slides](https://github.com/maaslalani/slides)
 * [otter.ai](https://otter.ai/)
+
+## 使用
+
+* 需按照 slides
+
+### 本地
+
+```shell
+$ git clone https://github.com/ZhengHe-MD/digests.git && cd digests
+$ slides path/to/slides.md
+```
+
+### 远程
+
+```shell
+$ wget https://raw.githubusercontent.com/ZhengHe-MD/digests/main/ai/machine-translation-from-the-cold-war-to-deep-learning/slides.md && chmod +x slides.md && slides slides.md
+```
