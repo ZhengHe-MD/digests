@@ -9,7 +9,7 @@
 
 ## 使用
 
-* 需按照 slides
+需安装 [slides](https://github.com/maaslalani/slides)
 
 ### 本地
 
